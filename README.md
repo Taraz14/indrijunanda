@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, Hello, Hai there! 👋
 
-<!--
-**indrijunanda/indrijunanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Indri Junanda. Currently working in one of the central government in the Kepulauan Riau, Indonesia . Focused on web development, sometimes designer, FPS Games and Street Photography Enthusiast. Love Create Something 🔥. Chocolate Addict 🍫
 
-Here are some ideas to get you started:
+Visit my Website [here](//indrijunanda.gitlab.io/) and find me on social media
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Twitter](//twitter.com/indrijunanda/)
+- [Instagram](//instagram.com/indrijunanda/)
+- [LinkedIn](//www.linkedin.com/in/indrijunanda/)
+- [Dribbble](//dribbble.com/indrijunanda)
+- [My Portfolio](//indrijunanda.gitlab.io/portfolio.html)
+- [📧 Email](mailto:ind.junanda@gmail.com)
+
