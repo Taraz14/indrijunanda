@@ -6,7 +6,7 @@ Currently working in one of the central government based in Kepulauan Riau, Indo
 
 ### 💬 Where to find me:
 - 🏀 Dribbble: <a href="//dribbble.com/indrijunanda">dribbble.com/indrijunanda</a>
-- 🌏 Website: [Indri Junanda](https://elangovan.in)
+- 🌏 Website: <a href="//indrijunanda.gitlab.io">indrijunanda</a>
 
 [![Email](https://img.shields.io/badge/--gmail?label=Email&logo=gmail&style=social)](mailto:ind.junanda@gmail.com)
 
