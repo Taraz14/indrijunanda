@@ -1,13 +1,13 @@
 # Hi, Hello, Hai I'm Indri Junanda ! 👋
 
-Currently working in one of the central government in the Kepulauan Riau, Indonesia . Focused on web development, sometime designer, playing games 🎮 and street photography enthusiast. Love Create Something 🔥. Chocolate Addict 🍫
+Currently working in one of the central government based in Kepulauan Riau, Indonesia . Junior Frontend Web Developer 💻, sometime designer 🎨, playing games 🎮 and street photography enthusiast 📷. Love Create Something 🔥.
 
-Visit my [Website](//indrijunanda.gitlab.io/) or my [Portfolio](//indrijunanda.gitlab.io/portfolio.html) and find me on social media :
+****
 
-- [Twitter](//twitter.com/indrijunanda/)
-- [Instagram](//instagram.com/indrijunanda/)
-- [LinkedIn](//www.linkedin.com/in/indrijunanda/)
-- [Dribbble](//dribbble.com/indrijunanda)
-#
-[📧 Contact Me](mailto:ind.junanda@gmail.com)
+### 💬 Where to find me:
+- 🏀 Dribbble: <a href="//dribbble.com/indrijunanda">dribbble.com/indrijunanda</a>
+- 🌏 Website: [Indri Junanda](https://elangovan.in)
 
+[![Email](https://img.shields.io/badge/--gmail?label=Email&logo=gmail&style=social)](mailto:ind.junanda@gmail.com)
+
+__Thanks for coming to my little place on Github!__ 😁
