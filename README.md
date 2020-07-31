@@ -1,6 +1,6 @@
 # Hi, Hello, Hai I'm Indri Junanda ! 👋
 
-Currently working in one of the central government based in Kepulauan Riau, Indonesia. I'm Junior Frontend Web Developer 💻, sometime designer 🎨, playing games 🎮 and street photography enthusiast 📷. Love Create Something 🔥.
+Currently working in one of the central government based in Kepulauan Riau, Indonesia. I'm Junior Web Developer 💻, sometime designer 🎨, playing games 🎮 and street photography enthusiast 📷. Love Create Something 🔥.
 
 #
 
