@@ -10,4 +10,4 @@ Currently working in one of the central government based in Kepulauan Riau, Indo
 
 [![Email](https://img.shields.io/badge/--gmail?label=Email&logo=gmail&style=social)](mailto:ind.junanda@gmail.com)
 
-__Thanks for coming to my little place on Github!__ 😁
+__Thanks for coming to my little place on GitHub!__ 😁
