@@ -1,6 +1,6 @@
 # Oh hai, I'm Indri Junanda ! 👋
 
-Currently working in one of the central government based in Kepulauan Riau, Indonesia. I'm Junior Web Developer 💻, passionate designer 🎨, playing games 🎮 and street photography enthusiast 📷. Self Motivated Talent  🔥.
+Currently junior web developer based in Kepulauan Riau, Indonesia. I'm Passionate designer 🎨, playing games 🎮 and street photography enthusiast 📷. Self Motivated Talent  🔥.
 
 #
 
