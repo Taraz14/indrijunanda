@@ -1,6 +1,6 @@
 # Oh hai, I'm Indri Junanda ! 👋
 
-Currently junior web developer based in Kepulauan Riau, Indonesia. I'm Passionate designer 🎨, playing games 🎮 and street photography enthusiast 📷. Self Motivated Talent  🔥.
+Junior web developer with 4 years experience based in Kepulauan Riau, Indonesia. I'm Passionate designer 🎨, playing games 🎮 and street photography enthusiast 📷. Self Motivated Talent  🔥.
 
 #
 
