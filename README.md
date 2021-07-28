@@ -5,8 +5,8 @@ Junior Web Developer with 5 years experience based in Kepulauan Riau, Indonesia.
 #
 
 ### 💬 Where to find me:
-- Twitter: <a href="//twitter.com/indrij_">@indrij_</a>
-- Website: <a href="//indrij.vercel.app/">indrij.vercel.app</a>
+- Twitter : <a href="//twitter.com/indrij_">@indrij_</a>
+- Website : <a href="//indrij.vercel.app/">indrij.vercel.app</a>
 
 [![Email](https://img.shields.io/badge/--gmail?label=Email&logo=gmail&style=social)](mailto:ind.junanda@gmail.com)
 
